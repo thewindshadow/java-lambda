@@ -50,5 +50,4 @@ public class ApiProvider {
         //TODO 处理具体的接口逻辑
         return null;
     }
-
 }
